@@ -7,5 +7,5 @@ def array_with_two_elements
 end
 
 def first_element(index)
-@taylor_swift.fetch(index)
+@taylor_swift.first(index)
 end
