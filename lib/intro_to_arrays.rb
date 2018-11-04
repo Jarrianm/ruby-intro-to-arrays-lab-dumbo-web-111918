@@ -8,5 +8,5 @@ end
 
 def first_element(index)
 taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-taylor_swift(index)
+taylor_swift[index]
 end
