@@ -6,6 +6,6 @@ def array_with_two_elements
   friends = ["mike","kris"]
 end
 
-def first_element(index)
-@taylor_swift.first("#{index}")
+def first_element(array)
+@taylor_swift.first
 end
